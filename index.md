@@ -93,4 +93,4 @@ See the [Language support documentation](/docs/services/natural-language-underst
 ## FISMA support
 {: #fisma-support}
 
-Federal Information Security Management Act (FISMA) support is available for {{site.data.keyword.nlushort}} on {{site.data.keyword.icp4dfull_notm}} offerings purchased on or after August 30, 2019. {{site.data.keyword.nlushort}} on {{site.data.keyword.icp4dfull_notm}} is FISMA High Ready.
+Federal Information Security Management Act (FISMA) support is available for {{site.data.keyword.nlushort}} on {{site.data.keyword.icp4dfull_notm}} offerings purchased on or after August 30, 2019. FISMA support is also available to those who purchased the June 28, 2019 version and upgrade to the August 30, 2019 version. {{site.data.keyword.nlushort}} on {{site.data.keyword.icp4dfull_notm}} is FISMA High Ready.
