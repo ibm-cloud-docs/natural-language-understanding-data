@@ -47,7 +47,7 @@ The following table shows the service behavior changes for each version date. Sw
 
 - Expanded [language support](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) for keywords to include Spanish, German, French, Italian, Brazilian Portuguese, and Japanese.
 - Added support for installing on {{site.data.keyword.icp4dfull_notm}} with Red Hat OpenShift.
-- Federal Information Security Management Act (FISMA) support is available for {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} offerings purchased on or after August 30, 2019. {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} is FISMA High Ready.
+- Federal Information Security Management Act (FISMA) support is available for {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} offerings purchased on or after August 30, 2019. FISMA support is also available to those who purchased the June 28, 2019 version and upgrade to the August 30, 2019 version. {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} is FISMA High Ready.
 
 ## Version 1.0.0 (28 June 2019)
 {: #28-june-2019}
