@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-06-28"
+lastupdated: "2019-08-30"
 
 ---
 
@@ -42,7 +42,14 @@ The following table shows the service behavior changes for each version date. Sw
 |[`2019-06-04`](#4-june-2019)| <li>Fixed a bug that caused entities requests with custom models to ignore the `limit` option.</li><li>The default `limit` value for all entities requests is now 50 for all models.</li><li>The maximum `limit` value of 250 entities has been removed.</li>|
 |[`2017-02-27`](#27-february-2017)| Base version.| 
 
-## Version 1.0.0 (June 2019)
+## Version 1.0.1 (30 August 2019)
+{: #30-august-2019}
+
+- Expanded [language support](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) for keywords to include Spanish, German, French, Italian, Brazilian Portuguese, and Japanese.
+- Added support for installing on {{site.data.keyword.icp4dfull_notm}} with Red Hat OpenShift.
+- Federal Information Security Management Act (FISMA) support is available for {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} offerings purchased on or after August 30, 2019. {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} is FISMA High Ready.
+
+## Version 1.0.0 (28 June 2019)
 {: #28-june-2019}
 
 {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} is now available as an add-on to the {{site.data.keyword.icpfull_notm}} platform.

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-06-28"
+lastupdated: "2019-08-30"
 
 ---
 
@@ -30,6 +30,11 @@ The following table lists the supported languages for the standard features that
 |Language|Keywords|Sentiment|
 |---|---|---|
 |English|&#x2713;|&#x2713;|
+|French|&#x2713;||
+|German|&#x2713;||
+|Italian|&#x2713;||
+|Japanese|&#x2713;||
+|Portuguese|&#x2713;||
 
 
 ## Custom models language support

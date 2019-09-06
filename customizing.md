@@ -32,6 +32,7 @@ entities and relations unique to your domain.
 2. [Get started with {{site.data.keyword.knowledgestudioshort}} for {{site.data.keyword.icp4dfull_notm}}](/docs/services/watson-knowledge-studio-data?topic=watson-knowledge-studio-data-wks_tutintro#wks_tutintro).
 3. Create a custom model.
    1. To create a custom entities and relations model, see [Creating a machine learning model](/docs/services/watson-knowledge-studio-data?topic=watson-knowledge-studio-data-wks_tutml_intro) 
+   2. You can also create a custom entities model with a rule based model. See [Creating a rule based model](/docs/services/watson-knowledge-studio-data?topic=watson-knowledge-studio-data-wks_tutrule_intro) for details.
 4. [Export your model to {{site.data.keyword.nlushort}}](/docs/services/watson-knowledge-studio-data?topic=watson-knowledge-studio-data-publish-ml#wks_manlu)
 5. Use the **[Create entities model](https://{DomainName}/apidocs/natural-language-understanding-data#create-entities-model)** method to deploy the exported model to the service.
     - Example curl request:

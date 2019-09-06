@@ -89,3 +89,8 @@ Analyze the sentiment toward specific target phrases and the sentiment of the do
 {: #supported-languages}
 
 See the [Language support documentation](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) for details about supported languages in {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull}}.
+
+## FISMA support
+{: #fisma-support}
+
+Federal Information Security Management Act (FISMA) support is available for {{site.data.keyword.nlushort}} on {{site.data.keyword.icp4dfull_notm}} offerings purchased on or after August 30, 2019. {{site.data.keyword.nlushort}} on {{site.data.keyword.icp4dfull_notm}} is FISMA High Ready.
