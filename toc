@@ -13,15 +13,24 @@ Natural Language Understanding for IBM Cloud Pak for Data
     {: .topicgroup}
     Installing
         install.md
-        [Helm chart README.md](https://github.com/IBM-Bluemix-Docs/data-readmes/blob/master/natural-language-understanding-README.md)
-    
+        [Helm chart README.md](https://github.com/ibm-cloud-docs/data-readmes/blob/master/natural-language-understanding-README.md)
+        manage.md
+
     customizing.md
     overriding-language-detection.md
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
     [API reference](https://cloud.ibm.com/apidocs/natural-language-understanding-data)
+    categories.md
     detectable-languages.md
+
+    {: .topicgroup}
+    Entity types
+        entity-types.md
+        entity-types-v1.md
+        entity-types-v2.md
+
     language-support.md
     sample-apps.md
     usage-limits.md

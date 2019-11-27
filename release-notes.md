@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-08-30"
+lastupdated: "2019-11-27"
 
 ---
 
@@ -23,24 +23,25 @@ lastupdated: "2019-08-30"
 The following new features and changes to the service are available.
 {: shortdesc}
 
-## Service API versioning
-{: #service-api-versioning}
+## Version 1.1.0 (27 November 2019)
+{: #27-november-2019}
 
-**Current API version**: 2019-06-04
-
-API requests require a version parameter that takes the date in the format `version=YYYY-MM-DD`. Send the version parameter with every API request.
-
-When we change the API in a backwards-incompatible way, we release a new minor version. To take advantage of the changes in a new version, change the value of the version parameter to the new date. If you're not ready to update to that version, don't change your version date.
-
-### Active version dates
-{: #active-version-dates}
-
-The following table shows the service behavior changes for each version date. Switching to a later version date will activate all changes introduced in earlier versions.
-
-|Version date|Changes summary|
-|---|---|
-|[`2019-06-04`](#4-june-2019)| <li>Fixed a bug that caused entities requests with custom models to ignore the `limit` option.</li><li>The default `limit` value for all entities requests is now 50 for all models.</li><li>The maximum `limit` value of 250 entities has been removed.</li>|
-|[`2017-02-27`](#27-february-2017)| Base version.| 
+- {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} 1.1.0 is compatible with {{site.data.keyword.icp4dfull}} 2.5
+- **New features**
+  - Categories
+  - Entities (standard models provided by the service)
+- **Expanded [language support](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support)** to include the following additions:
+  - **Arabic** entities, keywords, and sentiment
+  - **Chinese (Simplified)** entities, keywords, and sentiment
+  - **Dutch** entities, keywords, and sentiment
+  - **English** categories and entities
+  - **French** entities and sentiment
+  - **German** categories, entities, and sentiment
+  - **Italian** entities and sentiment
+  - **Japanese** entities and sentiment
+  - **Korean** entities, keywords, and sentiment
+  - **Portuguese** entities and sentiment
+  - **Spanish** entities and sentiment
 
 ## Version 1.0.1 (30 August 2019)
 {: #30-august-2019}
