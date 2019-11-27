@@ -29,6 +29,21 @@ With {{site.data.keyword.nlufull}} for {{site.data.keyword.icp4dfull}}, you can 
 
 {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} supports a subset of the features of the public [{{site.data.keyword.nlushort}}](/docs/services/natural-language-understanding) service.
 
+### Categories
+{: #categories}
+
+Categorize your content using a five-level classification hierarchy. View the complete list of categories [here](/docs/services/natural-language-understanding?topic=natural-language-understanding-categories-hierarchy). For example:
+
+**Input**
+> url: "www.cnn.com"
+
+**Response**
+> /news </br>
+> /art and entertainment </br>
+> /movies and tv/television </br>
+> /news </br>
+> /international news
+
 ### Entities
 {: #entities}
 

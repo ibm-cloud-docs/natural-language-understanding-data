@@ -61,12 +61,14 @@ Run the following command to analyze text to get sentiment and keywords. <span c
 
 ```bash
 curl -X POST \
-"{url}/v1/analyze?version=2019-06-04" \
+"{url}/v1/analyze" \
 --header "Authorization: Bearer {token}" \
 --header "Content-Type: application/json" \
 --data '{
   "text": "IBM is an American multinational information technology company headquartered in Armonk, New York, with operations in over 170 countries",
   "features": {
+    "categories": {},
+    "entities": {},
     "sentiment": {},
     "keywords": {}
   }
@@ -85,7 +87,7 @@ You can also get sentiment and emotion results for entities and keywords that ar
 
 ```bash
 curl -X POST \
-"{url}/v1/analyze?version=2019-06-04" \
+"{url}/v1/analyze" \
 --header "Authorization: Bearer {token}" \
 --header "Content-Type: application/json" \
 --data '{

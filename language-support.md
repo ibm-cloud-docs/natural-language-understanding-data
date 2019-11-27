@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-08-30"
+lastupdated: "2019-11-27"
 
 ---
 
@@ -27,21 +27,25 @@ lastupdated: "2019-08-30"
 
 The following table lists the supported languages for the standard features that are provided to you by {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}}.
 
-|Language|Keywords|Sentiment|
-|---|---|---|
-|English|&#x2713;|&#x2713;|
-|French|&#x2713;||
-|German|&#x2713;||
-|Italian|&#x2713;||
-|Japanese|&#x2713;||
-|Portuguese|&#x2713;||
-|Spanish|&#x2713;||
+|Language|Categories|Entities|Keywords|Sentiment|
+|---|---|---|---|---|
+|Arabic||&#x2713;|&#x2713;|&#x2713;|
+|Chinese (Simplified)||&#x2713;|&#x2713;|&#x2713;|
+|Dutch||&#x2713;|&#x2713;|&#x2713;|
+|English|&#x2713;|&#x2713;|&#x2713;|&#x2713;|
+|French||&#x2713;|&#x2713;|&#x2713;|
+|German|&#x2713;|&#x2713;|&#x2713;|&#x2713;|
+|Italian||&#x2713;|&#x2713;|&#x2713;|
+|Japanese||&#x2713;|&#x2713;|&#x2713;|
+|Korean||&#x2713;|&#x2713;|&#x2713;|
+|Portuguese||&#x2713;|&#x2713;|&#x2713;|
+|Spanish||&#x2713;|&#x2713;|&#x2713;|
 
 
 ## Custom models language support
 {: #custom-model-language-support}
 
-You can create [custom models](/docs/services/natural-language-understanding-data-customizing) for the following languages.
+You can create [custom entities and relations models](/docs/services/natural-language-understanding-data-customizing) for the following languages.
 
 - Arabic
 - Chinese (Simplified)

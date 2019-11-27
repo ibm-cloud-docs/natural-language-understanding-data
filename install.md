@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019
-lastupdated: "2019-08-30"
+lastupdated: "2019-11-27"
 
 ---
 
@@ -18,9 +18,14 @@ lastupdated: "2019-08-30"
 {:python: .ph data-hd-programlang='python'}
 {:swift: .ph data-hd-programlang='swift'}
 
-# Installing the add-on
+# Installing the service
 {: #install}
 
-To install the latest {{site.data.keyword.nlufull}} for {{site.data.keyword.icp4dfull}} add-on, see the [installation instructions](https://docs-icpdata.mybluemix.net/docs/content/SSQNUZ_current/com.ibm.icpdata.doc/watson/natural-language-understanding-install.html) in the {{site.data.keyword.icp4dfull_notm}} documentation.
+To install the latest {{site.data.keyword.nlufull}} for {{site.data.keyword.icp4dfull}} service, see the [installation instructions](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_current/cpd/svc/watson/natural-language-understanding-overview.html) in the {{site.data.keyword.icp4dfull_notm}} documentation.
 
-To install the previous version, see the [Helm chart for version 1.0.0](https://github.com/IBM-Bluemix-Docs/data-readmes/blob/master/natural-language-understanding-1.0.0-README.md) for installation instructions.
+To install one of the previous versions, see the following pages. 
+
+- [Version 1.0.1 Helm chart README](https://github.com/IBM-Bluemix-Docs/data-readmes/blob/master/natural-language-understanding-1.0.1-README.md)
+- [Version 1.0.0 Helm chart README](https://github.com/IBM-Bluemix-Docs/data-readmes/blob/master/natural-language-understanding-1.0.0-README.md)
+
+
