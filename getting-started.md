@@ -34,7 +34,7 @@ This short tutorial introduces the {{site.data.keyword.nlushort}} for {{site.dat
 ## Before you begin
 {: #before-you-begin}
 
-1.  Provision the instance of the {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}}. For more information about provisioning, see [Installing](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-install).
+1.  Provision the instance of the {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}}. For more information about provisioning, see [Installing](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-install).
 2.  From the {{site.data.keyword.icp4dfull_notm}} web client menu, choose **My Instances**.
 3.  Click the {{site.data.keyword.nlushort}} instance to open the overview page. Copy the `{token}` and `{url}` credential values.
 4.  Make sure that you have the `curl` command.
@@ -48,7 +48,7 @@ This short tutorial introduces the {{site.data.keyword.nlushort}} for {{site.dat
     - If necessary, install a version with SSL enabled from [curl.haxx.se](https://curl.haxx.se/){: external}.
 
 
-This tutorial shows you how to use the {{site.data.keyword.nlushort}} API from a command-line interface. To download client libraries for various programming languages, check out the [Watson SDKs](/docs/services/natural-language-understanding-data?topic=watson-using-sdks#using-sdks).
+This tutorial shows you how to use the {{site.data.keyword.nlushort}} API from a command-line interface. To download client libraries for various programming languages, check out the [Watson SDKs](/docs/natural-language-understanding-data?topic=watson-using-sdks#using-sdks).
 {:tip}
 
 ## Step 1: Analyze text
@@ -112,4 +112,4 @@ curl -X POST \
 {: #next-steps}
 
 - View the [API reference ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://{DomainName}/apidocs/natural-language-understanding-data){: new_window}.
-- Learn how to identify [custom entities and relations](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-customizing).
+- Learn how to identify [custom entities and relations](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-customizing).

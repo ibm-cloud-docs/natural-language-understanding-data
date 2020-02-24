@@ -21,18 +21,18 @@ lastupdated: "2019-06-28"
 # About
 {: #about}
 
-With {{site.data.keyword.nlufull}} for {{site.data.keyword.icp4dfull}}, you can analyze text content for keywords and sentiment all from your own {{site.data.keyword.icp4dfull_notm}} installation. You can also use [custom models](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-customizing) that you create in {{site.data.keyword.knowledgestudiofull}} for {{site.data.keyword.icp4dfull}} to analyze text for entities and relations between entities.
+With {{site.data.keyword.nlufull}} for {{site.data.keyword.icp4dfull}}, you can analyze text content for keywords and sentiment all from your own {{site.data.keyword.icp4dfull_notm}} installation. You can also use [custom models](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-customizing) that you create in {{site.data.keyword.knowledgestudiofull}} for {{site.data.keyword.icp4dfull}} to analyze text for entities and relations between entities.
 {: shortdesc}
 
 ## Features
 {: #features}
 
-{{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} supports a subset of the features of the public [{{site.data.keyword.nlushort}}](/docs/services/natural-language-understanding) service.
+{{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} supports a subset of the features of the public [{{site.data.keyword.nlushort}}](/docs/natural-language-understanding) service.
 
 ### Categories
 {: #categories}
 
-Categorize your content using a five-level classification hierarchy. View the complete list of categories [here](/docs/services/natural-language-understanding?topic=natural-language-understanding-categories-hierarchy). For example:
+Categorize your content using a five-level classification hierarchy. View the complete list of categories [here](/docs/natural-language-understanding?topic=natural-language-understanding-categories-hierarchy). For example:
 
 **Input**
 > url: "www.cnn.com"
@@ -47,7 +47,7 @@ Categorize your content using a five-level classification hierarchy. View the co
 ### Entities
 {: #entities}
 
-In order to analyze entities with {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}}, you must create a [custom model](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-customizing).
+In order to analyze entities with {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}}, you must create a [custom model](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-customizing).
 {: note}
 
 Find people, places, events, and other types of entities mentioned in your content.
@@ -77,7 +77,7 @@ Search your content for relevant keywords. For example:
 ### Relations
 {: #relations}
 
-In order to analyze relations with {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}}, you must create a [custom model](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-customizing).
+In order to analyze relations with {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}}, you must create a [custom model](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-customizing).
 {: note}
 
 Recognize when two entities are related, and identify the type of relation. For example:
@@ -103,7 +103,7 @@ Analyze the sentiment toward specific target phrases and the sentiment of the do
 ## Supported languages
 {: #supported-languages}
 
-See the [Language support documentation](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) for details about supported languages in {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull}}.
+See the [Language support documentation](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) for details about supported languages in {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull}}.
 
 ## FISMA support
 {: #fisma-support}

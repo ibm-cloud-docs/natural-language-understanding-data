@@ -30,7 +30,7 @@ The following new features and changes to the service are available.
 - **New features**
   - Categories
   - Entities (standard models provided by the service)
-- **Expanded [language support](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support)** to include the following additions:
+- **Expanded [language support](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-language-support)** to include the following additions:
   - **Arabic** entities, keywords, and sentiment
   - **Chinese (Simplified)** entities, keywords, and sentiment
   - **Dutch** entities, keywords, and sentiment
@@ -46,7 +46,7 @@ The following new features and changes to the service are available.
 ## Version 1.0.1 (30 August 2019)
 {: #30-august-2019}
 
-- Expanded [language support](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) for keywords to include Spanish, German, French, Italian, Brazilian Portuguese, and Japanese.
+- Expanded [language support](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) for keywords to include Spanish, German, French, Italian, Brazilian Portuguese, and Japanese.
 - Added support for installing on {{site.data.keyword.icp4dfull_notm}} with Red Hat OpenShift.
 - Federal Information Security Management Act (FISMA) support is available for {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} offerings purchased on or after August 30, 2019. FISMA support is also available to those who purchased the June 28, 2019 version and upgrade to the August 30, 2019 version. {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} is FISMA High Ready.
 

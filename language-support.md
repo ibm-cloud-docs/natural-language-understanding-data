@@ -45,7 +45,7 @@ The following table lists the supported languages for the standard features that
 ## Custom models language support
 {: #custom-model-language-support}
 
-You can create [custom entities and relations models](/docs/services/natural-language-understanding-data-customizing) for the following languages.
+You can create [custom entities and relations models](/docs/natural-language-understanding-data-customizing) for the following languages.
 
 - Arabic
 - Chinese (Simplified)
