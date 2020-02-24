@@ -27,7 +27,7 @@ If you have problems with {{site.data.keyword.nlushort}} for {{site.data.keyword
 ## Incorrect language detection
 {: #incorrect-language-detection}
 
-The automatic language detection might not be accurate for text that contains fewer than 100 characters. If the service doesn't detect the correct language of your text, you can [override automatic language detection](/docs/services/natural-language-understanding-data?topic=natural-language-understanding--data-overriding-language-detection).
+The automatic language detection might not be accurate for text that contains fewer than 100 characters. If the service doesn't detect the correct language of your text, you can [override automatic language detection](/docs/natural-language-understanding-data?topic=natural-language-understanding--data-overriding-language-detection).
 
 ## Explanations for particular results
 {: #explanations-for-results}

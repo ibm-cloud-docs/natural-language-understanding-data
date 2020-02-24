@@ -45,6 +45,6 @@ Example parameters object:
 ## Language support
 {: #language-support}
 
-Different language restrictions apply depending on how you use the service. For details, see the [Language support](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) page.
+Different language restrictions apply depending on how you use the service. For details, see the [Language support](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-language-support) page.
 
 

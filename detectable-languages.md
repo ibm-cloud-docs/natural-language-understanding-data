@@ -23,7 +23,7 @@ lastupdated: "2019-06-28"
 {{site.data.keyword.nlushort}} for {{site.data.keyword.icp4dfull_notm}} detects the source language automatically and returns the corresponding ISO 639-1 code in the response. For automatic language detection to work best, it is recommended that you use text with at least 100 characters.
 {: shortdesc}
 
-If automatic language detection isn't working well for your use case, you can [manually specify the language of your content](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-overriding-language-detection) in each request.
+If automatic language detection isn't working well for your use case, you can [manually specify the language of your content](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-overriding-language-detection) in each request.
 {: tip}
 
 The following table lists the detectable languages and corresponding ISO 639-1 codes.

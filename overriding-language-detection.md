@@ -44,7 +44,7 @@ curl -X POST \
 ## Language codes for supported languages
 {: #language-codes}
 
-To see the supported features and customization options for each language, see [Language support](/docs/services/natural-language-understanding-data?topic=natural-language-understanding-data-language-support).
+To see the supported features and customization options for each language, see [Language support](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-language-support).
 {: note}
 
 | Language | Language code |
