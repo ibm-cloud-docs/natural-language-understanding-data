@@ -23,9 +23,10 @@ lastupdated: "2019-11-27"
 
 To install the latest {{site.data.keyword.nlufull}} for {{site.data.keyword.icp4dfull}} service, see the [installation instructions](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_current/cpd/svc/watson/natural-language-understanding-overview.html) in the {{site.data.keyword.icp4dfull_notm}} documentation.
 
-To install one of the previous versions, see the following pages. 
+To install previous versions, see the following pages. 
 
-- [Version 1.0.1 Helm chart README](https://github.com/IBM-Bluemix-Docs/data-readmes/blob/master/natural-language-understanding-1.0.1-README.md)
-- [Version 1.0.0 Helm chart README](https://github.com/IBM-Bluemix-Docs/data-readmes/blob/master/natural-language-understanding-1.0.0-README.md)
+- [Version 1.1.0 Helm chart README](https://github.com/ibm-cloud-docs/data-readmes/blob/master/natural-language-understanding-1.1.0-README.md)
+- [Version 1.0.1 Helm chart README](https://github.com/ibm-cloud-docs/data-readmes/blob/master/natural-language-understanding-1.0.1-README.md)
+- [Version 1.0.0 Helm chart README](https://github.com/ibm-cloud-docs/data-readmes/blob/master/natural-language-understanding-1.0.0-README.md)
 
 

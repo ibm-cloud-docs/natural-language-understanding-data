@@ -100,6 +100,11 @@ Analyze the sentiment toward specific target phrases and the sentiment of the do
 **Response**
 >Positive sentiment (score: 0.91)
 
+### Advanced rules
+{: #index-advanced-rules}
+
+Use [custom advanced rules models](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-customizing#advanced-rules) that you create in [{{site.data.keyword.knowledgestudioshort}}](/docs/watson-knowledge-studio-data) to extract information from your content. The advanced rules editor in {{site.data.keyword.knowledgestudioshort}} allows for deeper customization than what's possible through creating rules-based entities models.
+
 ## Supported languages
 {: #supported-languages}
 
