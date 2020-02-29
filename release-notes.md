@@ -23,6 +23,11 @@ lastupdated: "2019-11-27"
 The following new features and changes to the service are available.
 {: shortdesc}
 
+## Version 1.1.1 (28 February 2020)
+{: #28-february-2020}
+
+- [Advanced rules](/docs/natural-language-understanding-data?topic=natural-language-understanding-data-customizing#advanced-rules) support
+
 ## Version 1.1.0 (27 November 2019)
 {: #27-november-2019}
 
