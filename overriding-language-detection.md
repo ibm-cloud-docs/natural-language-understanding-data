@@ -27,7 +27,7 @@ __Example curl request__
 
 ```bash
 curl -X POST \
-"{url}/v1/analyze" \
+"{url}/v1/analyze?version=2019-07-12" \
 --header "Authorization: Bearer {token}" \
 --header "Content-Type: application/json" \
 --data '{
