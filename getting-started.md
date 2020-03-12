@@ -61,7 +61,7 @@ Run the following command to analyze text to get sentiment and keywords. <span c
 
 ```bash
 curl -X POST \
-"{url}/v1/analyze" \
+"{url}/v1/analyze?version=2019-07-12" \
 --header "Authorization: Bearer {token}" \
 --header "Content-Type: application/json" \
 --data '{
@@ -87,7 +87,7 @@ You can also get sentiment and emotion results for entities and keywords that ar
 
 ```bash
 curl -X POST \
-"{url}/v1/analyze" \
+"{url}/v1/analyze?version=2019-07-12" \
 --header "Authorization: Bearer {token}" \
 --header "Content-Type: application/json" \
 --data '{
