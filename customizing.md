@@ -43,7 +43,7 @@ entities and relations unique to your domain.
         --form "file=@custom_model.zip" \ 
         --form "name=MyEntitiesModel" \ 
         --form "version=1.0.1" \ 
-        "https://{url}/v1/models/entities"
+        "https://{url}/v1/models/entities?version=2019-07-12"
         ```
         {:pre}
 
@@ -54,7 +54,7 @@ entities and relations unique to your domain.
 
         ```bash
         curl -X POST \
-        "{url}/v1/analyze" \
+        "{url}/v1/analyze?version=2019-07-12" \
         --header "Authorization: Bearer {token}" \
         --header "Content-Type: application/json" \
         --data '{
@@ -80,7 +80,7 @@ Example curl request:
 
 ```bash
 curl -X DELETE \
-"{url}/v1/models/entities/{model_id}" \
+"{url}/v1/models/entities/{model_id}?version=2019-07-12" \
 --header "Authorization: Bearer {token}" \
 ```
 {: pre}
