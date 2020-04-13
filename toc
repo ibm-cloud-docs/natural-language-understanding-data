@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="natural-language-understanding-data" category="ai" audience="service" href="/docs/natural-language-understanding-data?topic=natural-language-understanding-data-getting-started" path="natural-language-understanding-data"}
+{: .toc subcollection="natural-language-understanding-data" category="cloud_pak" audience="service" href="/docs/natural-language-understanding-data?topic=natural-language-understanding-data-getting-started" path="natural-language-understanding-data"}
 Natural Language Understanding for IBM Cloud Pak for Data
 
     {: .navgroup id="learn"}
