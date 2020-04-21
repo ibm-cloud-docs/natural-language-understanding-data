@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019
-lastupdated: "2019-06-28"
+  years: 2019, 2020
+lastupdated: "2020-04-21"
 
 ---
 
@@ -40,7 +40,7 @@ entities and relations unique to your domain.
         ```bash
         curl -X POST --header "Authorization: Bearer {token}" \ 
         --header "Content-Type: multipart/form-data" \ 
-        --form "file=@custom_model.zip" \ 
+        --form "model=@custom_model.zip" \ 
         --form "name=MyEntitiesModel" \ 
         --form "version=1.0.1" \ 
         "https://{url}/v1/models/entities?version=2019-07-12"
